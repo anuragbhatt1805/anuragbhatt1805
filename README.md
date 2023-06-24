@@ -6,24 +6,23 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ### About Me
 
-I have a background in computer science and a deep understanding of programming languages such as Python, JavaScript, and Java. I love solving problems and creating efficient, scalable solutions. Currently, I'm focusing on web development and software engineering.
+I have a background in computer science and a deep understanding of programming languages such as C, Java, Python and JavaScript. I love solving problems and creating efficient, scalable solutions. Currently, I'm focusing on web development, android development, software engineering and DevOps.
 
 ### Skills
 
-- **Programming Languages:** Python, JavaScript, Java
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
+- **Programming Languages:** Python, JavaScript, Java, C
+- **Web Development:** HTML, CSS, JS, Django, FastAPI, Flash, RestAPI
+- **Databases:** MySQL, MongoDB, Sqlite, PostgreSQL
 - **Version Control:** Git, GitHub
-- **Other Tools:** Docker, VS Code, Jupyter Notebook
+- **Other Tools:** Docker, VS Code, Jupyter Notebook, Android Studio
 
 ### Education
 
-- Bachelor of Technology in Computer Science - XYZ University (20XX-20XX)
+- Bachelor of Technology in Computer Science - HKBK College of Engineering (2020-2024)
 
 ### Work Experience
 
-- Software Developer Intern - Company XYZ (20XX-20XX)
-- Freelance Web Developer - (20XX-Present)
+- SELAB Web Master - HKBK College of Engineering (2021-2022)
 
 ### Projects
 
@@ -50,11 +49,6 @@ I'm actively working on various projects and contributing to open source. Check 
 
 Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch if you have any questions or opportunities for collaboration.
 
-
-<!--
-**anuragbhatt1805/anuragbhatt1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
