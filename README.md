@@ -9,13 +9,13 @@
 
 I have a background in computer science and a deep understanding of programming languages such as C, Java, Python and JavaScript. I love solving problems and creating efficient, scalable solutions. Currently, I'm focusing on web development, android development, software engineering and DevOps.
 
-- 🔭 I’m currently working on [Quiz-Cave](https://github.com/anuragbhatt1805/QuizCave)
+- 🔭 I’m currently working on [**Quiz-Cave**](https://github.com/anuragbhatt1805/QuizCave)
 
 - 🌱 I’m currently learning **Backend Development with Django**
 
-- 👯 I’m looking to collaborate on [Mood-Sync-API](https://github.com/anuragbhatt1805/mood-sync-api)
+- 👯 I’m looking to collaborate on [**Mood-Sync-API**](https://github.com/anuragbhatt1805/mood-sync-api)
 
-- 👨‍💻 All of my projects are available at [https://github.com/anuragbhatt1805?tab=repositories](https://github.com/anuragbhatt1805?tab=repositories)
+- 👨‍💻 All of my projects are available at [**anuragbhatt1805**](https://github.com/anuragbhatt1805?tab=repositories)
 
 - 💬 Ask me about **Python, Java, C, Django, FastAPI, Android Studio, Docker, Linux**
 
