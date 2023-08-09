@@ -21,9 +21,9 @@ I have a background in computer science and a deep understanding of programming 
 
 - 📫 How to reach me **anuragbhatt@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/anuragbhatt1805/anuragbhatt1805.git](https://github.com/anuragbhatt1805/anuragbhatt1805.git)
+- 📄 Know about my experiences [**My Resume**](https://github.com/anuragbhatt1805/anuragbhatt1805.git)
 
-- ⚡ Fun fact **With Programming, I also do Mobile Photography which you can see at My Another Insta-Account - @galaxy.click_capture**
+- ⚡ Fun fact **With Programming, I also do Mobile Photography which you can see at My Another Insta-Account - [@galaxy.click_capture](https://www.instagram.com/galaxy.click_capture/)**
 
 ### Education
 
@@ -56,4 +56,3 @@ I have a background in computer science and a deep understanding of programming 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbhatt1805&" alt="anuragbhatt1805" /></p>
 
--->
