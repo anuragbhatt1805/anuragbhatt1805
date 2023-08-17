@@ -52,9 +52,7 @@ I have a background in computer science and a deep understanding of programming 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbhatt1805&layout=pie" alt="anuragbhatt1805" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuragbhatt1805" alt="anuragbhatt1805" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragbhatt1805&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="anuragbhatt1805" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragbhatt1805&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="anuragbhatt1805" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbhatt1805&" alt="anuragbhatt1805" /></p>
 
