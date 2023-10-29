@@ -21,7 +21,7 @@ I have a background in computer science and a deep understanding of programming 
 
 - 📫 How to reach me **anuragbhatt@gmail.com**
 
-- 📄 Know about my experiences [**My Resume**](https://github.com/anuragbhatt1805/anuragbhatt1805/blob/main/Anurag_Bhatt_Resume.pdf)
+- 📄 Know about my experiences [**My Resume**](https://bit.ly/anurag-bhatt)
 
 - ⚡ Fun fact **With Programming, I also do Mobile Photography which you can see at My Another Insta-Account - [@galaxy.click_capture](https://www.instagram.com/galaxy.click_capture/)**
 
